@@ -1,6 +1,6 @@
 # Hey, I'm Sourav 👋
 
-**Lead SDET at CRED** with 10 years in the industry. I build test frameworks, break complex systems, and occasionally ship production platforms in stacks I barely know.
+**Lead SDET at CRED** | 10 years in testing | Claude Code daily | Shipped more code last year than my previous 9 combined. I build test frameworks, break complex systems, and occasionally ship production-grade platforms in stacks I barely know.
 
 ---
 
