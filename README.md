@@ -8,7 +8,7 @@
 
 **Currently:** Learning GenAI testing in public — [52-week journey](https://github.com/srvsngh99/genai-testing-journey)
 
-**Recently:** Built a production mock platform with AI assistance (Python, FastAPI, React). 1.5M+ requests served.
+**Recently:** Built a production-grade mock platform with AI assistance (Python, FastAPI, React). 1.5M+ requests served till date.
 
 **Always:** Building automation frameworks, thinking about quality, finding edge cases
 
