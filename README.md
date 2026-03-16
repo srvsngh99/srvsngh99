@@ -28,4 +28,4 @@
 
 ---
 
-*Week 6 of learning. Year 11 of testing. Let's see where it goes.*
+*Week 10 of learning. Year 11 of testing. Let's see where it goes.*
