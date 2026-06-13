@@ -12,9 +12,15 @@ I build developer tools for the frontier-AI era — faster local inference, open
 
 I came up through quality engineering (10+ years), so the bar here is reliability, not demos. Tools and writing live at **[Sourav AI Labs](https://souravailabs.ai)**.
 
-### Building
+### KrillLM
+
+<a href="https://github.com/srvsngh99/KrillLM">
+<img src="https://raw.githubusercontent.com/srvsngh99/srvsngh99/main/assets/krillm-logo.png" alt="KrillLM" width="90" align="left">
+</a>
 
 **[KrillLM](https://github.com/srvsngh99/KrillLM)** — a Mac-native LLM inference engine (Apple Silicon / MLX). ~5× faster to first token than Ollama, with ~3× less memory (≈3 GB vs 8.8 GB). Continuous batching, prefix KV-cache reuse, speculative decoding.
+
+<br clear="left">
 
 ### Featured: Mini Krill
 
