@@ -2,13 +2,19 @@
 
 ### Hey, I'm Sourav Singh
 
-**Lead SDET at CRED | Building at the intersection of Quality and AI**
+**Lead AI SDET · building Sourav AI Labs — an independent AI lab**
 
 </div>
 
 ---
 
-I spent 10+ years making software reliable. Now I'm building AI agent harnesses and tools — understanding how autonomous agents reason, plan, and act by building them from scratch.
+I run **[Sourav AI Labs](https://souravailabs.ai)**, an independent AI lab. I push the limits of what open and frontier models can do on real hardware, ship the open-source tools that come out of it, and teach engineers to build with them. In the open.
+
+I came up through quality engineering (10+ years), so the bar here is reliability, not demos.
+
+### Building
+
+**[KrillLM](https://github.com/srvsngh99/KrillLM)** — a Mac-native LLM inference engine (Apple Silicon / MLX). ~5× faster to first token than Ollama, with ~3× less memory (≈3 GB vs 8.8 GB). Continuous batching, prefix KV-cache reuse, speculative decoding.
 
 ### Featured: Mini Krill
 
@@ -16,7 +22,7 @@ I spent 10+ years making software reliable. Now I'm building AI agent harnesses 
 <img src="https://raw.githubusercontent.com/srvsngh99/mini-krill/main/assets/logo.png" alt="Mini Krill" width="90" align="left">
 </a>
 
-**[Mini Krill](https://github.com/srvsngh99/mini-krill)** — A local-first AI agent that runs entirely on your machine. No API keys. No cloud accounts. No setup friction.
+**[Mini Krill](https://github.com/srvsngh99/mini-krill)** — A lightweight, open-source AI agent that runs entirely on your machine. No API keys. No cloud accounts. No setup friction.
 
 Chat from Telegram, terminal CLI, TUI dashboard, or Discord — with unified memory across all interfaces. Powered by Ollama for fully private inference, with optional ChatGPT and Claude support via official CLIs. Runs seamlessly on Windows, Linux, and macOS. Single binary. ~15MB. Lightweight and clean.
 
@@ -24,10 +30,10 @@ Inspired by Jarvis and OpenClaw.
 
 <br clear="left">
 
-### Also working on
+### Also
 
-- **[52 Weeks of GenAI Testing](https://github.com/srvsngh99/genai-testing-journey)** — a public learning journey applying AI to quality engineering. Currently paused while I focus on agent harnesses — will resume in a new form, informed by what I learned building Mini Krill.
-- **[Sourav AI Labs](https://souravailabs.ai)** — writing about AI-native quality engineering, agent architecture, and lessons from building in public.
+- **[Sourav AI Labs](https://souravailabs.ai)** — open-source AI tools, hands-on courses, and field notes on building with frontier AI.
+- **[GenAI Testing Journey](https://github.com/srvsngh99/genai-testing-journey)** — an earlier public learning journey applying quality discipline to AI systems. An older chapter; the work now lives in the tools above.
 
 ### Connect
 
