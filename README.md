@@ -2,15 +2,15 @@
 
 ### Hey, I'm Sourav Singh
 
-**Lead AI SDET · building Sourav AI Labs — an independent AI lab**
+**Lead AI SDET · making local LLM inference faster (KrillLM) + open dev tools**
 
 </div>
 
 ---
 
-I run **[Sourav AI Labs](https://souravailabs.ai)**, an independent AI lab. I push the limits of what open and frontier models can do on real hardware, ship the open-source tools that come out of it, and teach engineers to build with them. In the open.
+I build developer tools for the frontier-AI era — faster local inference, open-source agents — and share the work in the open. **[KrillLM](https://github.com/srvsngh99/KrillLM)**, my Mac-native (Apple Silicon / MLX) LLM inference engine, reaches first token ~5× faster than Ollama with ~3× less memory.
 
-I came up through quality engineering (10+ years), so the bar here is reliability, not demos.
+I came up through quality engineering (10+ years), so the bar here is reliability, not demos. Tools and writing live at **[Sourav AI Labs](https://souravailabs.ai)**.
 
 ### Building
 
