@@ -2,15 +2,15 @@
 
 ### Hey, I'm Sourav Singh
 
-**Lead AI SDET · making local LLM inference faster (KrillLM) + open dev tools**
+**Lead AI SDET · building with frontier AI every day to sharpen the part that lasts: judgment**
 
 </div>
 
 ---
 
-I build developer tools for the frontier-AI era — faster local inference, open-source agents — and share the work in the open. **[KrillLM](https://github.com/srvsngh99/KrillLM)**, my Mac-native (Apple Silicon / MLX) LLM inference engine, reaches first token ~5× faster than Ollama with ~3× less memory.
+The hard part of building with AI isn't the building anymore — it's the judgment to tell what actually holds up. The tools change every week; that judgment compounds. So that's what I work on, every day, and share in the open. **[KrillLM](https://github.com/srvsngh99/KrillLM)** and **[mini-krill](https://github.com/srvsngh99/mini-krill)** are the first pieces of the ecosystem I'm building.
 
-I came up through quality engineering (10+ years), so the bar here is reliability, not demos. Tools and writing live at **[Sourav AI Labs](https://souravailabs.ai)**.
+I came up through quality engineering (10+ years, today Lead AI SDET at CRED), so the bar here is reliability, not demos. Tools, free learning, and field notes live at **[Sourav AI Labs](https://souravailabs.ai)**.
 
 ### KrillLM
 
@@ -38,7 +38,7 @@ Inspired by Jarvis and OpenClaw.
 
 ### Also
 
-- **[Sourav AI Labs](https://souravailabs.ai)** — open-source AI tools, hands-on courses, and field notes on building with frontier AI.
+- **[Sourav AI Labs](https://souravailabs.ai)** — open-source AI tools, a free self-paced way to learn, and field notes on building with frontier AI.
 - **[GenAI Testing Journey](https://github.com/srvsngh99/genai-testing-journey)** — an earlier public learning journey applying quality discipline to AI systems. An older chapter; the work now lives in the tools above.
 
 ### Connect
