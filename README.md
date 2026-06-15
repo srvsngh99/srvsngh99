@@ -1,5 +1,10 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srvsngh99/srvsngh99/main/assets/sai-lockup-paper.png">
+  <img src="https://raw.githubusercontent.com/srvsngh99/srvsngh99/main/assets/sai-lockup-ink.png" alt="Sourav AI Labs" width="400">
+</picture>
+
 ### Hey, I'm Sourav Singh
 
 **Lead AI SDET · building with frontier AI every day to sharpen the part that lasts: judgment**
