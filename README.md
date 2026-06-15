@@ -28,7 +28,7 @@ I came up through quality engineering (10+ years, today Lead AI SDET at CRED), s
 <img src="https://raw.githubusercontent.com/srvsngh99/mini-krill/main/assets/logo.png" alt="Mini Krill" width="90" align="left">
 </a>
 
-**[Mini Krill](https://github.com/srvsngh99/mini-krill)** — A lightweight, open-source AI agent that runs entirely on your machine. No API keys. No cloud accounts. No setup friction.
+**[Mini Krill](https://github.com/srvsngh99/mini-krill)** — A lightweight, open-source AI agent. Run it locally via Ollama or through cloud providers — free to use and build on.
 
 Chat from Telegram, terminal CLI, TUI dashboard, or Discord — with unified memory across all interfaces. Powered by Ollama for fully private inference, with optional ChatGPT and Claude support via official CLIs. Runs seamlessly on Windows, Linux, and macOS. Single binary. ~15MB. Lightweight and clean.
 
