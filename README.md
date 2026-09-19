@@ -13,7 +13,7 @@
 
 ---
 
-The hard part of building with AI isn't the building anymore — it's the judgement to tell what actually holds up. The tools change every week; that judgement compounds. So that's what I work on, every day, and share in the open. **[Krill](https://github.com/srvsngh99/Krill)** and **[mini-krill](https://github.com/srvsngh99/mini-krill)** are the first pieces of the ecosystem I'm building.
+The hard part of building with AI isn't the building anymore, it's the judgement to tell what actually holds up. The tools change every week; that judgement compounds. So that's what I work on, every day, and share in the open. **[Krill](https://github.com/srvsngh99/Krill)** and **[mini-krill](https://github.com/srvsngh99/mini-krill)** are the first pieces of the ecosystem I'm building.
 
 I came up through quality engineering (10+ years, today Lead AI SDET at CRED), so the bar here is reliability, not demos. Tools, free learning, and field notes live at **[Sourav AI Labs](https://souravailabs.ai)**.
 
@@ -23,7 +23,7 @@ I came up through quality engineering (10+ years, today Lead AI SDET at CRED), s
 <img src="https://raw.githubusercontent.com/srvsngh99/srvsngh99/main/assets/krill-logo.png" alt="Krill" width="90" align="left">
 </a>
 
-**[Krill](https://github.com/srvsngh99/Krill)** — a Mac-native LLM inference engine (Apple Silicon / MLX). ~5× faster to first token than Ollama, with ~3× less memory (≈3 GB vs 8.8 GB). Continuous batching, prefix KV-cache reuse, speculative decoding.
+**[Krill](https://github.com/srvsngh99/Krill)**: a Mac-native LLM inference engine (Apple Silicon / MLX). ~5× faster to first token than Ollama, with ~3× less memory (≈3 GB vs 8.8 GB). Continuous batching, prefix KV-cache reuse, speculative decoding.
 
 <br clear="left">
 
@@ -33,9 +33,9 @@ I came up through quality engineering (10+ years, today Lead AI SDET at CRED), s
 <img src="https://raw.githubusercontent.com/srvsngh99/mini-krill/main/assets/logo.png" alt="Mini Krill" width="90" align="left">
 </a>
 
-**[Mini Krill](https://github.com/srvsngh99/mini-krill)** — A lightweight, open-source AI agent. Run it locally via Ollama or through cloud providers — free to use and build on.
+**[Mini Krill](https://github.com/srvsngh99/mini-krill)**: a lightweight, open-source AI agent. Run it locally via Ollama or through cloud providers, free to use and build on.
 
-Chat from Telegram, terminal CLI, TUI dashboard, or Discord — with unified memory across all interfaces. Powered by Ollama for fully private inference, with optional ChatGPT and Claude support via official CLIs. Runs seamlessly on Windows, Linux, and macOS. Single binary. ~15MB. Lightweight and clean.
+Chat from Telegram, terminal CLI, TUI dashboard, or Discord, with unified memory across all interfaces. Powered by Ollama for fully private inference, with optional ChatGPT and Claude support via official CLIs. Runs seamlessly on Windows, Linux, and macOS. Single binary. ~15MB. Lightweight and clean.
 
 Inspired by Jarvis and OpenClaw.
 
@@ -43,8 +43,8 @@ Inspired by Jarvis and OpenClaw.
 
 ### Also
 
-- **[Sourav AI Labs](https://souravailabs.ai)** — open-source AI tools, a free self-paced way to learn, and field notes on building with frontier AI.
-- **[GenAI Testing Journey](https://github.com/srvsngh99/genai-testing-journey)** — an earlier public learning journey applying quality discipline to AI systems. An older chapter; the work now lives in the tools above.
+- **[Sourav AI Labs](https://souravailabs.ai)**: open-source AI tools, a free self-paced way to learn, and field notes on building with frontier AI.
+- **[GenAI Testing Journey](https://github.com/srvsngh99/genai-testing-journey)**: an earlier public learning journey applying quality discipline to AI systems. An older chapter; the work now lives in the tools above.
 
 ### Connect
 
