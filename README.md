@@ -7,13 +7,13 @@
 
 ### Hey, I'm Sourav Singh
 
-**Lead AI SDET · building with frontier AI every day to sharpen the part that lasts: judgment**
+**Lead AI SDET · building with frontier AI every day to sharpen the part that lasts: judgement**
 
 </div>
 
 ---
 
-The hard part of building with AI isn't the building anymore — it's the judgment to tell what actually holds up. The tools change every week; that judgment compounds. So that's what I work on, every day, and share in the open. **[Krill](https://github.com/srvsngh99/Krill)** and **[mini-krill](https://github.com/srvsngh99/mini-krill)** are the first pieces of the ecosystem I'm building.
+The hard part of building with AI isn't the building anymore — it's the judgement to tell what actually holds up. The tools change every week; that judgement compounds. So that's what I work on, every day, and share in the open. **[Krill](https://github.com/srvsngh99/Krill)** and **[mini-krill](https://github.com/srvsngh99/mini-krill)** are the first pieces of the ecosystem I'm building.
 
 I came up through quality engineering (10+ years, today Lead AI SDET at CRED), so the bar here is reliability, not demos. Tools, free learning, and field notes live at **[Sourav AI Labs](https://souravailabs.ai)**.
 
