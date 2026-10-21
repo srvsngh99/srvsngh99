@@ -23,7 +23,7 @@ I came up through quality engineering (10+ years, today Lead AI SDET at CRED), s
 <img src="https://raw.githubusercontent.com/srvsngh99/srvsngh99/main/assets/krill-logo.png" alt="Krill" width="90" align="left">
 </a>
 
-**[Krill](https://github.com/srvsngh99/Krill)**: a Mac-native LLM inference engine (Apple Silicon / MLX). ~5× faster to first token than Ollama, with ~3× less memory (≈3 GB vs 8.8 GB). Continuous batching, prefix KV-cache reuse, speculative decoding.
+**Ollama runs a model. Claude Code drives one. Krill does both, in one binary on your Mac.** **[Krill](https://github.com/srvsngh99/Krill)** is a Mac-native LLM engine and coding agent (Apple Silicon / MLX). ~5× faster to first token than Ollama, with ~3× less memory (≈3 GB vs 8.8 GB). Continuous batching, prefix KV-cache reuse, speculative decoding.
 
 <br clear="left">
 
